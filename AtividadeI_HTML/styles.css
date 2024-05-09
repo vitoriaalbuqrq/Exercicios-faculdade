@@ -1,0 +1,26 @@
+header{
+    text-align: justify;
+}
+
+section p{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+#graduacao{
+    color: #2757f3;
+}
+
+#telematica {
+    font-weight: bold;
+    color: #e46c1d;
+}
+
+#engenharia-computacao{
+    font-style: italic;
+    color: #1c861c;
+}
+#quimica{
+    text-decoration: underline;
+    color: #fe2020;
+}
